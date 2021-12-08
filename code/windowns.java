@@ -52,7 +52,7 @@ public class Windows extends JFrame implements MouseListener {
         g.drawString("开始",700,140);
         g.drawRect(690,180,50, 30);
         g.drawString("设置",700,200);
-        g.drawString("Code by 秃桔子 QQ:1243137612", 600,260);
+        g.drawString("Code by 徐青青和她的小伙伴们", 600,260);
     }
 
     @Override
