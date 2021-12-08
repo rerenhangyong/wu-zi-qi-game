@@ -5,6 +5,6 @@ public class Main {
      * @param args
      */
     public static void main(String[] args) {
-        new Windows("五子棋");
+        new Windows("五子棋游戏");
     }
 }
